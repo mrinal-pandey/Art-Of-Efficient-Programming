@@ -33,3 +33,10 @@ Class #3 dated 11-09-2019:
 -> Single function single task theory
 -> Command line arguments in Java
 -> Arrays as pointers
+
+Class #4 dated 14-09-2019:
+-> Interesting output questions
+-> Usage of '/b' and Thread.sleep() to create interesting animations on command line
+-> Detailed discussion on "Why Linux?"
+-> Demo on ls, cp, mv, cd, mkdir, rm, rmdir, history, date, cal, ps, kill, bg, fg, Ctrl + Z, man, stty, tee, cat, pwd, bc, xcalc, chmod, reboot, shutdown, grep, echo, printf, script
+-> Vim editor, gedit and piping concept
