@@ -40,3 +40,16 @@ Class #4 dated 14-09-2019:
 -> Detailed discussion on "Why Linux?"
 -> Demo on ls, cp, mv, cd, mkdir, rm, rmdir, history, date, cal, ps, kill, bg, fg, Ctrl + Z, man, stty, tee, cat, pwd, bc, xcalc, chmod, reboot, shutdown, grep, echo, printf, script
 -> Vim editor, gedit and piping concept
+
+Class #5 dated 03-10-2019:
+-> Interesting output questions
+-> Introduction to 'make' tool
+-> Validation of code
+-> Identifying test cases
+-> Equivalence partitioning
+-> Boundary value analysis
+-> Structural testing guidelines
+-> Violation of structural programming practices
+-> Identifying corner cases
+-> Introduction to competitive programming
+-> Senseful output
