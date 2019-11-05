@@ -1,5 +1,4 @@
 # Art-Of-Efficient-Programming
-Contains the codes and concepts discussed in the class
 
 The repository contains all the codes we discuss during the class.
 
