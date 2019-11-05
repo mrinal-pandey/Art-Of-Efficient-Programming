@@ -1,6 +1,6 @@
 # Art-Of-Efficient-Programming
 
-The repository contains all the codes we discuss during the class.
+The repository contains all the codes discussed during PESU I/O Art of efficient programming class.
 
 Below is the summary about the sessions.
 
