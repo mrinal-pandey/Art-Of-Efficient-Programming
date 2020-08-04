@@ -2,6 +2,8 @@
 
 The repository contains all the codes discussed during PESU I/O Art of efficient programming class.
 
+<a href="https://drive.google.com/file/d/1bLIFwjT8JaDRWua4Cy1gelDyoBx6Pfv_/view?usp=sharing">View course plan</a>
+
 Below is the summary about the sessions.
 
 Class #1 dated 03-09-2019:
